@@ -1,0 +1,17 @@
+{
+    "lang": "en-us",
+    "name": "Mi PWA",
+    "short_name": "Mi primera aplicacion PWA",
+    "description": "Un ejemplo de aplicacion web",
+    "start_url": ".",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "512x512"
+        }
+    ]
+}
